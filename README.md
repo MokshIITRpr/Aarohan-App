@@ -1,1 +1,3 @@
-# Aarohan-App
+# aarohan_app
+
+A new Flutter project.
